@@ -27,7 +27,7 @@ Atualmente, busco aprimorar minhas habilidades em engenharia de dados, computaç
 ### ☁️ Liderança e Comunidade
 
 <p align="left">
-    <img src="https://img.shields.io/badge/AWS_Student_Builder_Group-Leader-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS Student Builder Group Leader" />
+    <img src="https://img.shields.io/badge/AWS_Student_Builder_Group-Leader-FF69B4?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS Student Builder Group Leader" />
 </p>
 
 Como **AWS Student Builder Group Leader**, atuo ativamente promovendo a cultura de Computação em Nuvem e Inteligência Artificial no ecossistema estudantil. Minha missão envolve:
